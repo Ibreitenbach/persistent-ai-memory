@@ -6,9 +6,25 @@ Dale a tu IA memoria persistente que se carga una vez por sesión y consulta ins
 
 ---
 
-## 🌎 Construido para Todos los Estadounidenses
+## 🌎 Construido para Todos los Estadounidenses - GRATIS Para Siempre
 
 **Somos una nación de inmigrantes.** Desde todos los rincones del mundo, personas han venido a Estados Unidos trayendo sus culturas, idiomas y sueños. Este proyecto celebra esa herencia.
+
+### 💡 [Lea Nuestra Declaración de Misión](MISSION.md)
+
+**Por qué esta herramienta es GRATUITA y por qué importa AHORA:**
+- Durante tiempos de aplicación de ICE, el conocimiento es poder
+- La información legal no debe ser un privilegio para los ricos
+- Entender tus derechos protege a las familias
+- Existen vías de inmigración legal - las hacemos claras
+- El acceso a la justicia es un derecho fundamental
+
+**Esta herramienta proporciona:**
+- ✅ Acceso GRATUITO a jurisprudencia de inmigración federal
+- ✅ Información sobre Conozca Sus Derechos
+- ✅ Vías legales claramente explicadas
+- ✅ Conexión a servicios legales pro bono
+- ✅ Costo cero para siempre - sin muros de pago, sin barreras
 
 Ya sea que tu familia llegó en el Mayflower, por Ellis Island, cruzando el Río Grande, desde Asia, África, Europa o las Américas—**tú perteneces aquí.** Esta tecnología está construida **por** inmigrantes, **para** inmigrantes, y para **todos los estadounidenses** que creen en la fuerza de nuestra diversidad.
 
@@ -115,11 +131,17 @@ cp -r rlm-plugin ~/.claude/plugins/rlm-mempheromone
 
 ## Documentación
 
-- [Análisis Profundo de Arquitectura](docs/ARCHITECTURE.md) - Próximamente
+### Para Todos
+- **[Declaración de Misión](MISSION.md)** - Por qué esto es GRATIS y por qué importa
+- **[Guía de Ley de Inmigración](examples/legal-research/IMMIGRATION_LAW_GUIDE.md)** - Usando Legal Hub para investigación de inmigración
+- [Guía de Contribución](CONTRIBUTING.md) - Cómo ayudar (¡todos los orígenes bienvenidos!)
+
+### Documentación Técnica
+- [Análisis Profundo de Arquitectura](docs/ARCHITECTURE.md) - Arquitectura técnica completa
 - [Documento Técnico RLM](docs/RLM_WHITEPAPER.md) - Documentación técnica completa
 - [Guía de Configuración Membox](docs/MEMBOX_SETUP.md) - Guía de integración
 - [Gestión de Base de Datos](docs/DATABASE_MANAGEMENT_TOOLS.md) - Referencia de herramientas DB
-- [Ejemplo Legal Hub](.ai/BUILD_LEGAL_HUB.md) - Variante específica del dominio
+- [Guía de Construcción Legal Hub](.ai/BUILD_LEGAL_HUB.md) - Variante específica del dominio
 - [Guía de Inicio Rápido Legal Hub](examples/legal-research/INICIO_RAPIDO.md) - Configuración en español
 
 ## Construible por IA

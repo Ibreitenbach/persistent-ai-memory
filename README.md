@@ -6,9 +6,25 @@ Give your AI persistent memory that loads once per session and queries instantly
 
 ---
 
-## 🌎 Built for All Americans
+## 🌎 Built for All Americans - FREE Forever
 
 **We are a nation of immigrants.** From every corner of the world, people have come to America bringing their cultures, languages, and dreams. This project celebrates that heritage.
+
+### 💡 [Read Our Mission Statement](MISSION.md)
+
+**Why this tool is FREE and why it matters NOW:**
+- During times of ICE enforcement, knowledge is power
+- Legal information should not be a privilege for the wealthy
+- Understanding your rights protects families
+- Legal immigration pathways exist - we make them clear
+- Access to justice is a fundamental right
+
+**This tool provides:**
+- ✅ FREE access to federal immigration case law
+- ✅ Know Your Rights information
+- ✅ Legal pathways clearly explained
+- ✅ Connection to pro bono legal services
+- ✅ Zero cost forever - no paywalls, no barriers
 
 Whether your family came on the Mayflower, through Ellis Island, across the Rio Grande, from Asia, Africa, Europe, or the Americas—**you belong here.** This technology is built **by** immigrants, **for** immigrants, and for **all Americans** who believe in the strength of our diversity.
 
@@ -115,11 +131,17 @@ cp -r rlm-plugin ~/.claude/plugins/rlm-mempheromone
 
 ## Documentation
 
-- [Architecture Deep Dive](docs/ARCHITECTURE.md) - Coming soon
+### For Everyone
+- **[Mission Statement](MISSION.md)** - Why this is FREE and why it matters
+- **[Immigration Law Guide](examples/legal-research/IMMIGRATION_LAW_GUIDE.md)** - Using Legal Hub for immigration research
+- [Contributing Guide](CONTRIBUTING.md) - How to help (all backgrounds welcome!)
+
+### Technical Documentation
+- [Architecture Deep Dive](docs/ARCHITECTURE.md) - Complete technical architecture
 - [RLM White Paper](docs/RLM_WHITEPAPER.md) - Complete technical docs
 - [Membox Setup Guide](docs/MEMBOX_SETUP.md) - Integration guide
 - [Database Management](docs/DATABASE_MANAGEMENT_TOOLS.md) - DB tools reference
-- [Legal Hub Example](docs/BUILD_LEGAL_HUB.md) - Domain-specific variant
+- [Legal Hub Build Guide](.ai/BUILD_LEGAL_HUB.md) - Domain-specific variant
 
 ## AI-Buildable
 
