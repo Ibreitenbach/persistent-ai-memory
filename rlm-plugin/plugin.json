@@ -1,0 +1,12 @@
+{
+  "name": "rlm-mempheromone",
+  "version": "1.0.0",
+  "description": "RLM (Reinforcement Learning Memory) plugin for mempheromone - loads topic-continuous memory at session start",
+  "author": "Ike Breitenbach",
+  "hooks": {
+    "SessionStart": {
+      "script": "hooks/rlm-session-start.sh",
+      "timeout": 30
+    }
+  }
+}

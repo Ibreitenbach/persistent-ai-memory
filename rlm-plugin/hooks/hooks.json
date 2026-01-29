@@ -1,0 +1,28 @@
+{
+  "description": "RLM automatic activation hooks - enables Recursive Language Model processing for large contexts",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ${CLAUDE_PLUGIN_ROOT}/hooks/rlm-session-start.sh",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ${CLAUDE_PLUGIN_ROOT}/hooks/rlm-detect-large-context.sh",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

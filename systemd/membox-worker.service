@@ -1,0 +1,31 @@
+[Unit]
+Description=Membox Background Worker
+Documentation=https://github.com/yourusername/persistent-ai-memory
+After=postgresql.service
+Wants=postgresql.service
+
+[Service]
+Type=oneshot
+User=ike
+Group=ike
+WorkingDirectory=/home/ike/mempheromone
+
+# Environment
+Environment="PGHOST=/var/run/postgresql"
+Environment="PGDATABASE=mempheromone"
+Environment="PGUSER=ike"
+
+# Run worker for last hour
+ExecStart=/usr/bin/python3 /home/ike/mempheromone/scripts/membox_worker.py --since 1h
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=membox-worker
+
+# Restart policy
+Restart=on-failure
+RestartSec=5min
+
+[Install]
+WantedBy=multi-user.target

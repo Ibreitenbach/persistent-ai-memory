@@ -1,0 +1,15 @@
+[Unit]
+Description=Membox Worker Hourly Timer
+Documentation=https://github.com/yourusername/persistent-ai-memory
+
+[Timer]
+# Run every hour at :15 past the hour
+OnCalendar=hourly
+Persistent=true
+RandomizedDelaySec=5min
+
+# First run 5 minutes after boot
+OnBootSec=5min
+
+[Install]
+WantedBy=timers.target
