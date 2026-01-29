@@ -1,6 +1,6 @@
 # Build Legal Hub: AI Handoff Document
 
-**Purpose**: Step-by-step instructions for AI agents to build a Legal Hub variant of the persistent-ai-memory system.
+**Purpose**: Step-by-step instructions for AI agents to build a Legal Hub variant of the Legal-Claw-RLMemory system.
 
 **Time Estimate**: 3-4 hours for complete setup
 
@@ -1334,13 +1334,13 @@ SELECT * FROM legal_cases WHERE jurisdiction = 'CA';
 
 ## 14. License & Attribution
 
-This template is part of the persistent-ai-memory ecosystem.
+This template is part of the Legal-Claw-RLMemory ecosystem.
 
 **License**: MIT
 
 **Attribution**: When publishing or sharing derivatives:
-- Credit: "Based on persistent-ai-memory Legal Hub template"
-- Link: https://github.com/[your-repo]/persistent-ai-memory
+- Credit: "Based on Legal-Claw-RLMemory Legal Hub template"
+- Link: https://github.com/[your-repo]/Legal-Claw-RLMemory
 
 ---
 

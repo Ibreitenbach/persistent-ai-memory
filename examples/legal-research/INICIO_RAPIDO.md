@@ -51,8 +51,8 @@ Antes de comenzar, asegúrate de tener:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Ibreitenbach/persistent-ai-memory
-cd persistent-ai-memory/examples/legal-research
+git clone https://github.com/Ibreitenbach/Legal-Claw-RLMemory
+cd Legal-Claw-RLMemory/examples/legal-research
 
 # Hacer ejecutable el script de instalación
 chmod +x setup.sh
@@ -407,7 +407,7 @@ psql -d legal_hub -c "SELECT COUNT(*) FROM legal_cases;"
 
 1. Consulta la sección de solución de problemas arriba
 2. Ver documentación completa: [BUILD_LEGAL_HUB.md](../../.ai/BUILD_LEGAL_HUB.md)
-3. Abrir un issue en GitHub: https://github.com/Ibreitenbach/persistent-ai-memory/issues
+3. Abrir un issue en GitHub: https://github.com/Ibreitenbach/Legal-Claw-RLMemory/issues
 
 ---
 

@@ -32,8 +32,8 @@ Un sistema completo para memoria conversacional de IA que:
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/Ibreitenbach/persistent-ai-memory
-cd persistent-ai-memory
+git clone https://github.com/Ibreitenbach/Legal-Claw-RLMemory
+cd Legal-Claw-RLMemory
 
 # 2. Configurar base de datos
 ./scripts/setup.sh
