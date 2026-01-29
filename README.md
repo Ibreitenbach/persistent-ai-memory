@@ -4,6 +4,31 @@ Give your AI persistent memory that loads once per session and queries instantly
 
 [🇪🇸 Versión en Español](README_ES.md)
 
+---
+
+## 🌎 Built for All Americans
+
+**We are a nation of immigrants.** From every corner of the world, people have come to America bringing their cultures, languages, and dreams. This project celebrates that heritage.
+
+Whether your family came on the Mayflower, through Ellis Island, across the Rio Grande, from Asia, Africa, Europe, or the Americas—**you belong here.** This technology is built **by** immigrants, **for** immigrants, and for **all Americans** who believe in the strength of our diversity.
+
+**We welcome contributors** from every background:
+- 🇲🇽 🇨🇳 🇮🇳 🇵🇭 🇻🇳 🇰🇷 🇯🇵 🇹🇭 Asian & Pacific Islander Americans
+- 🇲🇽 🇨🇺 🇵🇷 🇨🇴 🇩🇴 🇸🇻 🇬🇹 🇭🇳 Latino & Hispanic Americans
+- 🇳🇬 🇪🇹 🇰🇪 🇬🇭 🇿🇦 African & Black Americans
+- 🇮🇹 🇵🇱 🇩🇪 🇮🇪 🇬🇷 🇫🇷 European Americans
+- 🏳️‍🌈 LGBTQ+ Americans
+- ✊🏽 Indigenous & Native Americans
+- 🕊️ Muslim, Jewish, Christian, Hindu, Buddhist, Sikh, and all faith traditions
+
+**America's greatest strength is our diversity.** This project is open-source, bilingual (English/Spanish, with more languages welcome), and committed to making AI technology accessible to **everyone**.
+
+*"Give me your tired, your poor, your huddled masses yearning to breathe free."* — Emma Lazarus
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get involved.
+
+---
+
 ## What Is This?
 
 A complete system for AI conversational memory that:

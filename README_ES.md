@@ -4,6 +4,31 @@ Dale a tu IA memoria persistente que se carga una vez por sesión y consulta ins
 
 [🇺🇸 English Version](README.md)
 
+---
+
+## 🌎 Construido para Todos los Estadounidenses
+
+**Somos una nación de inmigrantes.** Desde todos los rincones del mundo, personas han venido a Estados Unidos trayendo sus culturas, idiomas y sueños. Este proyecto celebra esa herencia.
+
+Ya sea que tu familia llegó en el Mayflower, por Ellis Island, cruzando el Río Grande, desde Asia, África, Europa o las Américas—**tú perteneces aquí.** Esta tecnología está construida **por** inmigrantes, **para** inmigrantes, y para **todos los estadounidenses** que creen en la fuerza de nuestra diversidad.
+
+**Damos la bienvenida a contribuidores** de todos los orígenes:
+- 🇲🇽 🇨🇺 🇵🇷 🇨🇴 🇩🇴 🇸🇻 🇬🇹 🇭🇳 Estadounidenses Latinos e Hispanos
+- 🇨🇳 🇮🇳 🇵🇭 🇻🇳 🇰🇷 🇯🇵 🇹🇭 Estadounidenses Asiáticos y de las Islas del Pacífico
+- 🇳🇬 🇪🇹 🇰🇪 🇬🇭 🇿🇦 Estadounidenses Africanos y Negros
+- 🇮🇹 🇵🇱 🇩🇪 🇮🇪 🇬🇷 🇫🇷 Estadounidenses Europeos
+- 🏳️‍🌈 Estadounidenses LGBTQ+
+- ✊🏽 Estadounidenses Indígenas y Nativos
+- 🕊️ Musulmanes, Judíos, Cristianos, Hindúes, Budistas, Sijs, y todas las tradiciones de fe
+
+**La mayor fortaleza de Estados Unidos es nuestra diversidad.** Este proyecto es de código abierto, bilingüe (Inglés/Español, con más idiomas bienvenidos), y comprometido con hacer la tecnología de IA accesible para **todos**.
+
+*"Dame a tus cansados, tus pobres, tus masas hacinadas anhelando respirar libremente."* — Emma Lazarus
+
+Ver [CONTRIBUTING.md](CONTRIBUTING.md) para cómo participar.
+
+---
+
 ## ¿Qué Es Esto?
 
 Un sistema completo para memoria conversacional de IA que:

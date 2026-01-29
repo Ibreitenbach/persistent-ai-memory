@@ -2,7 +2,7 @@
 
 **Complete technical architecture of RLM + Mempheromone system**
 
-[🇪🇸 Versión en Español](ARCHITECTURE_ES.md)
+[🇪🇸 Resumen en Español](ARCHITECTURE_ES.md)
 
 ---
 
