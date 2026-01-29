@@ -1,0 +1,14 @@
+# Persistent AI Memory: Python Dependencies
+
+# Database
+psycopg2-binary>=2.9.0
+
+# Embeddings and semantic search
+sentence-transformers>=2.2.0
+numpy>=1.21.0
+
+# Optional: for faster computations
+torch>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
