@@ -45,6 +45,92 @@ Ver [CONTRIBUTING.md](CONTRIBUTING.md) para cómo participar.
 
 ---
 
+## 📚 Legal Hub: Investigación Legal Gratuita
+
+**Legal Hub** es una variante especializada de este sistema que proporciona **acceso GRATUITO a información legal** que varía según tu ubicación.
+
+### 🌐 Recursos Federales (Universales - Disponibles en Todas Partes)
+
+La ley federal se aplica en los 50 estados. Legal Hub proporciona acceso a:
+
+- **Ley Federal de Inmigración:**
+  - Estatutos y regulaciones de inmigración de EE.UU.
+  - Decisiones de cortes federales sobre casos de inmigración
+  - Políticas y procedimientos de USCIS
+  - Formularios de inmigración (I-130, I-485, I-765, N-400, I-589)
+  - Tiempos de procesamiento y requisitos
+
+- **Cortes Federales:**
+  - Decisiones de la Corte Suprema
+  - Opiniones de Cortes de Circuito (9º Circuito, 2º Circuito, etc.)
+  - Decisiones de la Junta de Apelaciones de Inmigración (BIA)
+  - Fallos de cortes de distrito federal
+
+- **Conozca Sus Derechos (Federal):**
+  - Derechos constitucionales durante encuentros con ICE
+  - Derecho a permanecer en silencio
+  - Derecho a un abogado
+  - Requisitos de orden judicial
+
+### 🏛️ Recursos Estatales y Locales (Varían por Ubicación)
+
+Los recursos legales varían significativamente por estado y ciudad. Legal Hub te ayuda a encontrar:
+
+- **Políticas Estatales de Inmigración:**
+  - Políticas de santuario a nivel estatal
+  - Beneficios y restricciones estatales
+  - Elegibilidad para licencia de conducir
+  - Reglas de matrícula estatal
+
+- **Ayuda Legal Local:**
+  - Abogados de inmigración pro bono en tu área
+  - Clínicas de inmigración de facultades de derecho
+  - Centros legales comunitarios
+  - Referencias de asociaciones de abogados
+
+- **Cortes Estatales:**
+  - Decisiones de cortes estatales que afectan a inmigrantes
+  - Corte de familia (custodia, tutela)
+  - Recursos de defensa criminal estatal
+
+### 📍 Encontrar Recursos para Tu Área
+
+**Legal Hub proporciona ayuda específica por ubicación:**
+
+```bash
+# Ejemplo: Configurar Legal Hub para tu estado
+cd examples/legal-research
+./setup.sh
+
+# Buscar ayuda legal local
+python3 scripts/find_legal_aid.py --state "California" --city "Los Angeles"
+
+# Encontrar abogados de inmigración cerca de ti
+python3 scripts/find_attorneys.py --zipcode "90001"
+```
+
+**Recursos Nacionales (Funcionan desde Cualquier Lugar):**
+- Immigration Advocates Network: https://www.immigrationadvocates.org/
+- CLINIC Legal Services: https://cliniclegal.org/directory
+- AILA Pro Bono: https://www.aila.org/advo-media/aila-pro-bono
+
+### 🎯 Qué Hace Legal Hub
+
+**Legal Hub proporciona:**
+- ✅ Jurisprudencia federal de inmigración (búsqueda con latencia de 0ms)
+- ✅ Diferencias de políticas estado por estado
+- ✅ Directorio de ayuda legal local (actualizado regularmente)
+- ✅ Formularios de inmigración y requisitos de presentación
+- ✅ Estimaciones de tiempo de procesamiento por centro de servicio
+- ✅ Guías de Conozca Sus Derechos (Inglés + Español)
+- ✅ Conexión con abogados pro bono en tu ciudad/estado
+
+**Ver Guía Completa:** [Guía de Inicio Rápido Legal Hub](examples/legal-research/INICIO_RAPIDO.md)
+
+**IMPORTANTE:** Legal Hub proporciona **información** legal, no **asesoramiento** legal. Siempre consulta con un abogado de inmigración calificado para tu situación específica.
+
+---
+
 ## ¿Qué Es Esto?
 
 Un sistema completo para memoria conversacional de IA que:

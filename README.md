@@ -45,6 +45,92 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get involved.
 
 ---
 
+## 📚 Legal Hub: Free Legal Research
+
+**Legal Hub** is a specialized variant of this system providing **FREE access to legal information** that varies by your location.
+
+### 🌐 Federal Resources (Universal - Available Everywhere)
+
+Federal law applies across all 50 states. Legal Hub provides access to:
+
+- **Federal Immigration Law:**
+  - U.S. immigration statutes and regulations
+  - Federal court decisions on immigration cases
+  - USCIS policies and procedures
+  - Immigration forms (I-130, I-485, I-765, N-400, I-589)
+  - Processing times and requirements
+
+- **Federal Courts:**
+  - Supreme Court decisions
+  - Circuit Court opinions (9th Circuit, 2nd Circuit, etc.)
+  - Board of Immigration Appeals (BIA) decisions
+  - Federal district court rulings
+
+- **Know Your Rights (Federal):**
+  - Constitutional rights during ICE encounters
+  - Right to remain silent
+  - Right to an attorney
+  - Warrant requirements
+
+### 🏛️ State & Local Resources (Varies by Location)
+
+Legal resources vary significantly by state and city. Legal Hub helps you find:
+
+- **State Immigration Policies:**
+  - State-level sanctuary policies
+  - State benefits and restrictions
+  - Driver's license eligibility
+  - In-state tuition rules
+
+- **Local Legal Aid:**
+  - Pro bono immigration attorneys in your area
+  - Law school immigration clinics
+  - Community legal centers
+  - Bar association referrals
+
+- **State Courts:**
+  - State court decisions affecting immigrants
+  - Family court (custody, guardianship)
+  - State criminal defense resources
+
+### 📍 Finding Resources for Your Area
+
+**Legal Hub provides location-specific help:**
+
+```bash
+# Example: Setup Legal Hub for your state
+cd examples/legal-research
+./setup.sh
+
+# Search for local legal aid
+python3 scripts/find_legal_aid.py --state "California" --city "Los Angeles"
+
+# Find immigration attorneys near you
+python3 scripts/find_attorneys.py --zipcode "90001"
+```
+
+**National Resources (Work from Anywhere):**
+- Immigration Advocates Network: https://www.immigrationadvocates.org/
+- CLINIC Legal Services: https://cliniclegal.org/directory
+- AILA Pro Bono: https://www.aila.org/advo-media/aila-pro-bono
+
+### 🎯 What Legal Hub Does
+
+**Legal Hub provides:**
+- ✅ Federal immigration case law (searchable with 0ms latency)
+- ✅ State-by-state policy differences
+- ✅ Local legal aid directory (updated regularly)
+- ✅ Immigration forms and filing requirements
+- ✅ Processing time estimates by service center
+- ✅ Know Your Rights guides (English + Spanish)
+- ✅ Connection to pro bono attorneys in your city/state
+
+**See Full Guide:** [Immigration Law Guide](examples/legal-research/IMMIGRATION_LAW_GUIDE.md)
+
+**IMPORTANT:** Legal Hub provides legal **information**, not legal **advice**. Always consult with a qualified immigration attorney for your specific situation.
+
+---
+
 ## What Is This?
 
 A complete system for AI conversational memory that:
