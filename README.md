@@ -1,37 +1,38 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/🦅-Legal--Claw--RLMemory-darkblue?style=for-the-badge" alt="Legal-Claw-RLMemory"/>
+</p>
 
-# 🦅 Legal-Claw-RLMemory 🦅
+<h1 align="center">🦅 Legal-Claw-RLMemory 🦅</h1>
+<h3 align="center"><em>Persistent AI Memory for Justice & Liberty</em></h3>
 
-### *Persistent AI Memory for Justice & Liberty*
+<p align="center">
+  <a href="MISSION.md"><img src="https://img.shields.io/badge/FREE-Forever-red?style=for-the-badge&logo=handshake&logoColor=white" alt="FREE Forever"/></a>
+  <a href="https://github.com/Ibreitenbach"><img src="https://img.shields.io/badge/Built_in-America-blue?style=for-the-badge&logo=github&logoColor=white" alt="Built in America"/></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/For_All-Americans-darkblue?style=for-the-badge&logo=heart&logoColor=white" alt="For All Americans"/></a>
+</p>
 
-[![FREE Forever](https://img.shields.io/badge/FREE-Forever-red?style=for-the-badge&logo=handshake&logoColor=white)](MISSION.md)
-[![Built in America](https://img.shields.io/badge/Built_in-America-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibreitenbach)
-[![For All Americans](https://img.shields.io/badge/For_All-Americans-darkblue?style=for-the-badge&logo=heart&logoColor=white)](CONTRIBUTING.md)
-
-[![Immigration Law](https://img.shields.io/badge/Immigration-Law_Research-DC143C?style=flat-square)](examples/legal-research/IMMIGRATION_LAW_GUIDE.md)
-[![Know Your Rights](https://img.shields.io/badge/Know_Your-Rights-1E3A8A?style=flat-square)](MISSION.md)
-[![Battle Tested](https://img.shields.io/badge/Battle_Tested-4,994+_Conversations-B31942?style=flat-square)](docs/ARCHITECTURE.md)
-[![Zero Cost](https://img.shields.io/badge/Cost-$0_Forever-0A3161?style=flat-square)](MISSION.md)
-
----
-
-**🗽 Give your AI persistent memory that loads once per session and queries instantly 🗽**
-
-*"Give me your tired, your poor, your huddled masses yearning to breathe free."*
-
-[🇺🇸 English](README.md) | [🇪🇸 Español](README_ES.md)
+<p align="center">
+  <a href="examples/legal-research/IMMIGRATION_LAW_GUIDE.md"><img src="https://img.shields.io/badge/Immigration-Law_Research-DC143C?style=flat-square" alt="Immigration Law"/></a>
+  <a href="MISSION.md"><img src="https://img.shields.io/badge/Know_Your-Rights-1E3A8A?style=flat-square" alt="Know Your Rights"/></a>
+  <a href="docs/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Battle_Tested-4,994+_Conversations-B31942?style=flat-square" alt="Battle Tested"/></a>
+  <a href="MISSION.md"><img src="https://img.shields.io/badge/Cost-$0_Forever-0A3161?style=flat-square" alt="Zero Cost"/></a>
+</p>
 
 ---
 
-</div>
+<p align="center"><strong>🗽 Give your AI persistent memory that loads once per session and queries instantly 🗽</strong></p>
 
-<div align="center">
+<p align="center"><em>"Give me your tired, your poor, your huddled masses yearning to breathe free."</em></p>
+
+<p align="center">
+  <a href="README.md">🇺🇸 English</a> | <a href="README_ES.md">🇪🇸 Español</a>
+</p>
+
+---
 
 ## 🗽 Built for All Americans - FREE Forever 🦅
 
 **🔴⚪🔵 Access to Justice is a Fundamental Right 🔴⚪🔵**
-
-</div>
 
 **We are a nation of immigrants.** From every corner of the world, people have come to America bringing their cultures, languages, and dreams. This project celebrates that heritage.
 
@@ -418,31 +419,31 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help build technology that ser
 
 ---
 
-<div align="center">
+<h3 align="center">🗽 Built for America, By Americans, For All Americans 🗽</h3>
 
-### 🗽 Built for America, By Americans, For All Americans 🗽
+<p align="center">
+<strong>Production-tested with 4,994+ conversations</strong><br/>
+<strong>Battle-hardened in daily multi-agent use</strong>
+</p>
 
-**Production-tested with 4,994+ conversations**
-**Battle-hardened in daily multi-agent use**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Open Source](https://img.shields.io/badge/Open-Source-red?style=flat-square&logo=github)](https://github.com/Ibreitenbach/Legal-Claw-RLMemory)
-[![Free Forever](https://img.shields.io/badge/Free-Forever-darkblue?style=flat-square&logo=handshake)](MISSION.md)
-
----
-
-🦅 **E Pluribus Unum** - *Out of Many, One* 🦅
-
-*Built by Ike Breitenbach*
-
-**Made in America with ❤️ for All Americans**
-
-🇺🇸 🇲🇽 🇨🇳 🇮🇳 🇵🇭 🇻🇳 🇰🇷 🇯🇵 🇪🇹 🇳🇬 🇮🇹 🇵🇱 🇩🇪 🇮🇪 🏳️‍🌈 ✊🏽 🕊️
-
-*"The strength of America is in its diversity"*
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT"/></a>
+  <a href="https://github.com/Ibreitenbach/Legal-Claw-RLMemory"><img src="https://img.shields.io/badge/Open-Source-red?style=flat-square&logo=github" alt="Open Source"/></a>
+  <a href="MISSION.md"><img src="https://img.shields.io/badge/Free-Forever-darkblue?style=flat-square&logo=handshake" alt="Free Forever"/></a>
+</p>
 
 ---
 
-**Access to Justice is a Fundamental Right**
+<p align="center">🦅 <strong>E Pluribus Unum</strong> - <em>Out of Many, One</em> 🦅</p>
 
-</div>
+<p align="center"><em>Built by Ike Breitenbach</em></p>
+
+<p align="center"><strong>Made in America with ❤️ for All Americans</strong></p>
+
+<p align="center">🇺🇸 🇲🇽 🇨🇳 🇮🇳 🇵🇭 🇻🇳 🇰🇷 🇯🇵 🇪🇹 🇳🇬 🇮🇹 🇵🇱 🇩🇪 🇮🇪 🏳️‍🌈 ✊🏽 🕊️</p>
+
+<p align="center"><em>"The strength of America is in its diversity"</em></p>
+
+---
+
+<p align="center"><strong>Access to Justice is a Fundamental Right</strong></p>

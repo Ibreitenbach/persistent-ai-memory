@@ -1,37 +1,38 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/🦅-Legal--Claw--RLMemory-darkblue?style=for-the-badge" alt="Legal-Claw-RLMemory"/>
+</p>
 
-# 🦅 Legal-Claw-RLMemory 🦅
+<h1 align="center">🦅 Legal-Claw-RLMemory 🦅</h1>
+<h3 align="center"><em>Memoria Persistente de IA para Justicia y Libertad</em></h3>
 
-### *Memoria Persistente de IA para Justicia y Libertad*
+<p align="center">
+  <a href="MISSION.md"><img src="https://img.shields.io/badge/GRATIS-Para_Siempre-red?style=for-the-badge&logo=handshake&logoColor=white" alt="GRATIS Para Siempre"/></a>
+  <a href="https://github.com/Ibreitenbach"><img src="https://img.shields.io/badge/Hecho_en-América-blue?style=for-the-badge&logo=github&logoColor=white" alt="Hecho en América"/></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Para_Todos_los-Estadounidenses-darkblue?style=for-the-badge&logo=heart&logoColor=white" alt="Para Todos los Estadounidenses"/></a>
+</p>
 
-[![GRATIS Para Siempre](https://img.shields.io/badge/GRATIS-Para_Siempre-red?style=for-the-badge&logo=handshake&logoColor=white)](MISSION.md)
-[![Hecho en América](https://img.shields.io/badge/Hecho_en-América-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibreitenbach)
-[![Para Todos los Estadounidenses](https://img.shields.io/badge/Para_Todos_los-Estadounidenses-darkblue?style=for-the-badge&logo=heart&logoColor=white)](CONTRIBUTING.md)
-
-[![Ley de Inmigración](https://img.shields.io/badge/Ley_de-Inmigración-DC143C?style=flat-square)](examples/legal-research/IMMIGRATION_LAW_GUIDE.md)
-[![Conozca Sus Derechos](https://img.shields.io/badge/Conozca_Sus-Derechos-1E3A8A?style=flat-square)](MISSION.md)
-[![Probado en Batalla](https://img.shields.io/badge/Probado_en_Batalla-4,994+_Conversaciones-B31942?style=flat-square)](docs/ARCHITECTURE.md)
-[![Costo Cero](https://img.shields.io/badge/Costo-$0_Para_Siempre-0A3161?style=flat-square)](MISSION.md)
-
----
-
-**🗽 Dale a tu IA memoria persistente que se carga una vez por sesión y consulta instantáneamente 🗽**
-
-*"Dame a tus cansados, tus pobres, tus masas hacinadas anhelando respirar libremente."*
-
-[🇺🇸 English](README.md) | [🇪🇸 Español](README_ES.md)
+<p align="center">
+  <a href="examples/legal-research/IMMIGRATION_LAW_GUIDE.md"><img src="https://img.shields.io/badge/Ley_de-Inmigración-DC143C?style=flat-square" alt="Ley de Inmigración"/></a>
+  <a href="MISSION.md"><img src="https://img.shields.io/badge/Conozca_Sus-Derechos-1E3A8A?style=flat-square" alt="Conozca Sus Derechos"/></a>
+  <a href="docs/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Probado_en_Batalla-4,994+_Conversaciones-B31942?style=flat-square" alt="Probado en Batalla"/></a>
+  <a href="MISSION.md"><img src="https://img.shields.io/badge/Costo-$0_Para_Siempre-0A3161?style=flat-square" alt="Costo Cero"/></a>
+</p>
 
 ---
 
-</div>
+<p align="center"><strong>🗽 Dale a tu IA memoria persistente que se carga una vez por sesión y consulta instantáneamente 🗽</strong></p>
 
-<div align="center">
+<p align="center"><em>"Dame a tus cansados, tus pobres, tus masas hacinadas anhelando respirar libremente."</em></p>
+
+<p align="center">
+  <a href="README.md">🇺🇸 English</a> | <a href="README_ES.md">🇪🇸 Español</a>
+</p>
+
+---
 
 ## 🗽 Construido para Todos los Estadounidenses - GRATIS Para Siempre 🦅
 
 **🔴⚪🔵 El Acceso a la Justicia es un Derecho Fundamental 🔴⚪🔵**
-
-</div>
 
 **Somos una nación de inmigrantes.** Desde todos los rincones del mundo, personas han venido a Estados Unidos trayendo sus culturas, idiomas y sueños. Este proyecto celebra esa herencia.
 
@@ -419,31 +420,31 @@ Ver [CONTRIBUTING.md](CONTRIBUTING.md) para cómo ayudar a construir tecnología
 
 ---
 
-<div align="center">
+<h3 align="center">🗽 Construido para América, Por Estadounidenses, Para Todos los Estadounidenses 🗽</h3>
 
-### 🗽 Construido para América, Por Estadounidenses, Para Todos los Estadounidenses 🗽
+<p align="center">
+<strong>Probado en producción con más de 4,994 conversaciones</strong><br/>
+<strong>Endurecido en batalla con uso multi-agente diario</strong>
+</p>
 
-**Probado en producción con más de 4,994 conversaciones**
-**Endurecido en batalla con uso multi-agente diario**
-
-[![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Código Abierto](https://img.shields.io/badge/Código-Abierto-red?style=flat-square&logo=github)](https://github.com/Ibreitenbach/Legal-Claw-RLMemory)
-[![Gratis Para Siempre](https://img.shields.io/badge/Gratis-Para_Siempre-darkblue?style=flat-square&logo=handshake)](MISSION.md)
-
----
-
-🦅 **E Pluribus Unum** - *De Muchos, Uno* 🦅
-
-*Construido por Ike Breitenbach*
-
-**Hecho en América con ❤️ para Todos los Estadounidenses**
-
-🇺🇸 🇲🇽 🇨🇳 🇮🇳 🇵🇭 🇻🇳 🇰🇷 🇯🇵 🇪🇹 🇳🇬 🇮🇹 🇵🇱 🇩🇪 🇮🇪 🏳️‍🌈 ✊🏽 🕊️
-
-*"La fortaleza de América está en su diversidad"*
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-blue.svg?style=flat-square" alt="Licencia: MIT"/></a>
+  <a href="https://github.com/Ibreitenbach/Legal-Claw-RLMemory"><img src="https://img.shields.io/badge/Código-Abierto-red?style=flat-square&logo=github" alt="Código Abierto"/></a>
+  <a href="MISSION.md"><img src="https://img.shields.io/badge/Gratis-Para_Siempre-darkblue?style=flat-square&logo=handshake" alt="Gratis Para Siempre"/></a>
+</p>
 
 ---
 
-**El Acceso a la Justicia es un Derecho Fundamental**
+<p align="center">🦅 <strong>E Pluribus Unum</strong> - <em>De Muchos, Uno</em> 🦅</p>
 
-</div>
+<p align="center"><em>Construido por Ike Breitenbach</em></p>
+
+<p align="center"><strong>Hecho en América con ❤️ para Todos los Estadounidenses</strong></p>
+
+<p align="center">🇺🇸 🇲🇽 🇨🇳 🇮🇳 🇵🇭 🇻🇳 🇰🇷 🇯🇵 🇪🇹 🇳🇬 🇮🇹 🇵🇱 🇩🇪 🇮🇪 🏳️‍🌈 ✊🏽 🕊️</p>
+
+<p align="center"><em>"La fortaleza de América está en su diversidad"</em></p>
+
+---
+
+<p align="center"><strong>El Acceso a la Justicia es un Derecho Fundamental</strong></p>
