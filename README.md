@@ -37,6 +37,55 @@
 
 ### 💡 [Read Our Mission Statement](MISSION.md)
 
+---
+
+### 🇺🇸 Standing for American Values & The Rule of Law
+
+**This tool embodies what America should stand for:**
+
+We believe in the **rule of law** and **constitutional rights**. This tool helps people:
+- ✅ **Understand and follow legal immigration pathways** (not circumvent them)
+- ✅ **Exercise their constitutional rights** (free speech, due process, legal representation)
+- ✅ **Access the justice system fairly** (not be exploited by lack of knowledge)
+- ✅ **Navigate the legal system properly** (with accurate information)
+
+**The Real Problem We're Addressing:**
+
+For too long, **profit-driven interests** have gatekept access to legal information:
+- $3,000-$15,000 attorney fees create barriers to justice
+- Expensive legal databases lock away public court decisions
+- Lack of accessible information leaves families vulnerable to exploitation
+- Predatory services take advantage of confusion and fear
+
+**This is fundamentally un-American.** Legal information is public. Court decisions are public. The law belongs to the people.
+
+**What Makes This Patriotic:**
+
+This tool stands up for:
+- 🗽 **Constitutional rights for all** - enshrined in our founding documents
+- ⚖️ **Equal access to justice** - a cornerstone of American democracy
+- 📜 **Rule of law** - by helping people understand and follow it correctly
+- 🦅 **American heritage** - we are a nation built by immigrants
+- 💪 **Standing against exploitation** - profit should not gate access to justice
+
+**We Support:**
+- Legal immigration pathways (family, employment, humanitarian protection)
+- Constitutional protections during enforcement encounters
+- Qualified immigration attorneys providing personalized legal advice
+- The legal system functioning fairly for everyone
+
+**We Oppose:**
+- Gatekeeping public legal information behind paywalls
+- Exploiting vulnerable families through lack of accessible information
+- Profit-driven barriers to understanding the law
+- Any actions that undermine the rule of law
+
+**This is not about evading law enforcement.** This is about **upholding American values** by ensuring everyone can access legal information, understand their rights, and navigate the legal system properly.
+
+**Access to justice is not terrorism. It's democracy.**
+
+---
+
 **Why this tool is FREE and why it matters NOW:**
 - During times of ICE enforcement, knowledge is power
 - Legal information should not be a privilege for the wealthy

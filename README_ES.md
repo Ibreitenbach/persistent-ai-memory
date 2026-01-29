@@ -37,6 +37,55 @@
 
 ### 💡 [Lea Nuestra Declaración de Misión](MISSION.md)
 
+---
+
+### 🇺🇸 Defendiendo los Valores Estadounidenses y el Estado de Derecho
+
+**Esta herramienta representa lo que América debería ser:**
+
+Creemos en el **estado de derecho** y los **derechos constitucionales**. Esta herramienta ayuda a las personas a:
+- ✅ **Entender y seguir las vías legales de inmigración** (no eludirlas)
+- ✅ **Ejercer sus derechos constitucionales** (libertad de expresión, debido proceso, representación legal)
+- ✅ **Acceder al sistema de justicia de manera justa** (no ser explotados por falta de conocimiento)
+- ✅ **Navegar el sistema legal correctamente** (con información precisa)
+
+**El Verdadero Problema que Estamos Abordando:**
+
+Durante demasiado tiempo, **intereses impulsados por ganancias** han restringido el acceso a la información legal:
+- Honorarios de abogados de $3,000-$15,000 crean barreras a la justicia
+- Bases de datos legales costosas bloquean decisiones judiciales públicas
+- La falta de información accesible deja a las familias vulnerables a la explotación
+- Servicios predatorios se aprovechan de la confusión y el miedo
+
+**Esto es fundamentalmente anti-estadounidense.** La información legal es pública. Las decisiones judiciales son públicas. La ley pertenece al pueblo.
+
+**Lo Que Hace Esto Patriótico:**
+
+Esta herramienta defiende:
+- 🗽 **Derechos constitucionales para todos** - consagrados en nuestros documentos fundacionales
+- ⚖️ **Acceso igualitario a la justicia** - una piedra angular de la democracia estadounidense
+- 📜 **Estado de derecho** - ayudando a las personas a entenderlo y seguirlo correctamente
+- 🦅 **Herencia estadounidense** - somos una nación construida por inmigrantes
+- 💪 **Resistir la explotación** - las ganancias no deben restringir el acceso a la justicia
+
+**Apoyamos:**
+- Vías legales de inmigración (familiar, laboral, protección humanitaria)
+- Protecciones constitucionales durante encuentros de aplicación
+- Abogados de inmigración calificados que brindan asesoramiento legal personalizado
+- El sistema legal funcionando de manera justa para todos
+
+**Nos Oponemos a:**
+- Restringir información legal pública detrás de muros de pago
+- Explotar familias vulnerables a través de la falta de información accesible
+- Barreras impulsadas por ganancias para entender la ley
+- Cualquier acción que socave el estado de derecho
+
+**Esto no se trata de evadir la aplicación de la ley.** Se trata de **defender los valores estadounidenses** asegurando que todos puedan acceder a información legal, entender sus derechos y navegar el sistema legal correctamente.
+
+**El acceso a la justicia no es terrorismo. Es democracia.**
+
+---
+
 **Por qué esta herramienta es GRATUITA y por qué importa AHORA:**
 - Durante tiempos de aplicación de ICE, el conocimiento es poder
 - La información legal no debe ser un privilegio para los ricos
