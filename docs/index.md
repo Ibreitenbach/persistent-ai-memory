@@ -30,14 +30,32 @@ Legal Claw RLMemory is a complete system for AI conversational memory that:
 - **Loads filtered history once** at session start
 - **Answers queries with 0ms retrieval latency**
 - Uses **pheromone learning** to prioritize useful memories
-- Provides **FREE access to legal information** for immigration research
+- Provides **FREE access to legal information** for **ALL legal research**
+
+## For Everyone With Legal Questions
+
+This tool is designed for **anyone** seeking legal information - not just immigration:
+
+| Legal Area | Example Use Cases |
+|------------|-------------------|
+| **Immigration** | Visa applications, green cards, citizenship, asylum |
+| **Family Law** | Divorce, custody, adoption, guardianship |
+| **Criminal Defense** | Understanding charges, rights during arrest, bail |
+| **Housing & Tenant** | Evictions, lease disputes, landlord issues |
+| **Employment** | Wrongful termination, discrimination, wage theft |
+| **Small Claims** | Disputes under $10,000, contract issues |
+| **Consumer Rights** | Debt collection, fraud, warranty claims |
+| **Estate Planning** | Wills, trusts, probate basics |
+| **Civil Rights** | Discrimination, police misconduct, voting rights |
+
+**Remember:** This provides legal **information**, not legal **advice**. Always consult a licensed attorney for your specific situation.
 
 ## Quick Links
 
 | Getting Started | Technical Docs | Resources |
 |-----------------|----------------|-----------|
 | [**Start Here**](START_HERE) | [Architecture](ARCHITECTURE) | [GitHub Repo](https://github.com/Ibreitenbach/Legal-Claw-RLMemory) |
-| [Requirements](#requirements) | [RLM White Paper](RLM_WHITEPAPER) | [Immigration Guide](https://github.com/Ibreitenbach/Legal-Claw-RLMemory/blob/main/examples/legal-research/IMMIGRATION_LAW_GUIDE.md) |
+| [Requirements](#requirements) | [RLM White Paper](RLM_WHITEPAPER) | [Legal Research Examples](https://github.com/Ibreitenbach/Legal-Claw-RLMemory/tree/main/examples/legal-research) |
 | [FAQ](#faq) | [Membox Setup](MEMBOX_SETUP) | [Contributing](https://github.com/Ibreitenbach/Legal-Claw-RLMemory/blob/main/CONTRIBUTING.md) |
 | | [DB Management](DATABASE_MANAGEMENT_TOOLS) | [Mission Statement](https://github.com/Ibreitenbach/Legal-Claw-RLMemory/blob/main/MISSION.md) |
 

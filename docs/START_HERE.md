@@ -4,9 +4,9 @@ title: Start Here
 ---
 
 <h1 align="center">START HERE</h1>
-<h3 align="center">Complete Setup Guides for Beginners</h3>
+<h3 align="center">Your Free AI Legal Research Assistant</h3>
 
-<p align="center"><em>Never set up programming tools before? No problem. These guides walk you through every step.</em></p>
+<p align="center"><em>For ALL legal questions - immigration, family law, housing, employment, criminal defense, and more.<br/>Never set up programming tools before? No problem. These guides walk you through every step.</em></p>
 
 ---
 
